@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.mono.pjdepartement.PjDepartementApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 16.428 s - in com.mono.pjdepartement.PjDepartementApplicationTests
